@@ -51,15 +51,20 @@ The Power BI dashboard analyzes customer churn using:
 
 # 📌 Key Insights
 
-The dashboard identifies customer segments with higher churn and highlights important factors such as contract type, payment method, internet service, tenure, and monthly charges.
+* Month-to-month contract customers showed the highest churn.
+* Customers using electronic check had higher churn compared to other payment methods.
+* Fiber optic customers showed significant churn.
+* Customers with shorter tenure were more likely to churn.
+* Senior citizens represented a higher-risk customer segment.
+* Churned customers had different average monthly charges compared to active customers.
 
 # 💡 Business Recommendations
 
-* Develop targeted retention strategies for high-risk customer segments.
-* Encourage customers to choose longer-term contracts.
-* Review customer pricing and service offerings for groups with higher churn.
-* Improve customer engagement and support for new customers.
-* Use churn insights to create personalized retention offers.
+* Encourage month-to-month customers to switch to one-year or two-year contracts through discounts or loyalty benefits.
+* Provide targeted retention offers to high-risk payment and service segments.
+* Focus on improving the experience of customers with higher monthly charges.
+* Improve onboarding and engagement for new customers during their early tenure.
+* Provide personalized support and retention strategies for high-risk customer groups.
 
 # 📊 Dataset
 
